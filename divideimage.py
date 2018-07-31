@@ -2,6 +2,7 @@
 #coding: utf-8
 #-------------------------------------------------------------------------------------
 # DivideImage ver1.0.0  2018.08.01
+# https://github.com/komatsu7777/DivideImage
 #
 # Linux Mint 18.1 - Python 2.7.12 - /usr/bin/python  - utf-8 / LF 
 # Linux Mint 18.1 - Python 3.5.2  - /usr/bin/python3 - utf-8 / LF 
